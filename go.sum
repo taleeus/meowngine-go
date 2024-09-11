@@ -1,0 +1,4 @@
+github.com/taleeus/commons-go v0.0.1 h1:UM48YkIwcsuW5PCGAloKNAPNQz+g+BQRL62cD2/VEUk=
+github.com/taleeus/commons-go v0.0.1/go.mod h1:zoQabRIblQ+9eINC+nmpZmbiX6I/wnFcQfRsJfeslGI=
+golang.org/x/sync v0.8.0 h1:3NFvSEYkUoMifnESzZl15y791HH1qU2xm6eCJU5ZPXQ=
+golang.org/x/sync v0.8.0/go.mod h1:Czt+wKu1gCyEFDUtn0jG5QVvpJ6rzVqr5aXyt9drQfk=
